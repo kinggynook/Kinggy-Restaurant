@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="pnu.ntc.b.appapinya.apinyaburisri.kinggyrestautant">
 
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
